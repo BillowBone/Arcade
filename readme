@@ -1,0 +1,10 @@
+How to play with the arcade:
+
+    You can move the character with ZQSD
+    The R key restarts the current game
+    The P key loads the next graphic library
+    The U key loads the previous gaphic library
+    The M key loads the next game
+    The J key loads the previous game
+    The X key let you go back to the menu
+    The N key exits the program as closing any graphical window will also exit the program
